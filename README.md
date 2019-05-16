@@ -17,3 +17,4 @@ Download Zookeeper first and unzip it. Create 3 nodes for ZK on your localhost. 
 Copy zookeeper dist into each zk-server folder. Then open the zoo.cfg file in conf folder and update the paths and add the other servers 
 with diff ports in there (2288:3888, 2889:3889 etc). Do this in every folder
 # Kafka Setup
+This is how you setup kafka
